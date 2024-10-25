@@ -30,12 +30,11 @@ My first work on continuous learning is in preparation.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR </div><img src='images/motivation.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 Adapter Enhanced Semantic Prompting for Continual learning
 
 Huajie Jiang, Ji Zhao, Yongli Hu, Baocai Yin, Jiaseng Zhang
+
+<img src="images/motivation.png" style="zoom:50%;" />
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong></strong>
 
