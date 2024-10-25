@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage.I am a student in the second year of my master's degree, currently studying in Beijing University of Technology, College of Information Science and Technology.My major is electronic information. The directions I am more interested in are Machine Learning, Deep Neural Networks, Pattern Recognition, Image Processing, Continul Learning, Few-shot Learning and Few-Shot Incremental Learners.
+Welcome to my homepage.I am a student in the second year of my master's degree, currently studying in Beijing University of Technology, School of Information Science and Technology.My major is electronic information. The directions I am more interested in are Machine Learning, Deep Neural Networks, Pattern Recognition, Image Processing, Continul Learning, Few-shot Learning and Few-Shot Incremental Learners.
 My first work on continuous learning is in preparation.
 
 
@@ -46,7 +46,7 @@ Huajie Jiang, Ji Zhao, Yongli Hu, Baocai Yin, Jiaseng Zhang
 
 # 📖 Educations
 
-- *2023.09 - 2024.10 (now)*, Beijing University of Technology, College of Information Science and Technology. Electronic Information. 
+- *2023.09 - 2024.10 (now)*, Beijing University of Technology, School of Information Science and Technology. Electronic Information. 
 - *2019.09 - 2023.06*, LiaoNing Petrochemical University, School of Information and Control Engineering, Control Engineering. 
 
 # 💻 Internships
