@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<img src="image\IMG_9481.JPG" alt="IMG_9481" style="width:100%;" />
+<img src="images\IMG_9481.JPG" alt="IMG_9481" style="width:100%;" />
 
 Welcome to my homepage.I am a student in the second year of my master's degree, currently studying in Beijing University of Technology, School of Information Science and Technology.My major is electronic information. The directions I am more interested in are Machine Learning, Deep Neural Networks, Pattern Recognition, Image Processing, Continul Learning, Few-shot Learning and Few-Shot Incremental Learners.
 My first work on continuous learning is in preparation.
@@ -36,7 +36,7 @@ Adapter and Prompt（在投、保密）
 
 Huajie Jiang, Ji Zhao, Yongli Hu, Baocai Yin, Jiaseng Zhang
 
-<img src="image\IMG_9436.JPG" alt="IMG_9436" style="width:90%;" />
+<img src="images\IMG_9436.jpg" alt="IMG_9436" style="width:90%;" />
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong></strong>
 
