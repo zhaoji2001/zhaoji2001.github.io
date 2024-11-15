@@ -30,7 +30,7 @@ My first work on continuous learning is in preparation.
 
 # 📝 Publications 
 
-Adapter Enhanced Semantic Prompting for Continual learning
+Adapter and Prompt（在投、保密）
 
 Huajie Jiang, Ji Zhao, Yongli Hu, Baocai Yin, Jiaseng Zhang
 
@@ -38,7 +38,7 @@ Huajie Jiang, Ji Zhao, Yongli Hu, Baocai Yin, Jiaseng Zhang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong></strong>
 
-- Continual learning enables models to adapt to evolving data streams without retraining from scratch. However, it faces the issue of catastrophic forgetting, where new learning overwrites previously acquired knowledge. Recent advancements in natural language processing have shown that using language prompts can guide model learning and help retain knowledge. Nevertheless, since language and images reside in distinct embedding spaces, effectively leveraging language to guide visual models remains a critical challenge. In this paper, we propose a novel language-guided continual learning framework that combines prompt tuning and adapter techniques within a Vision Transformer (ViT) architecture. Our method processes interactions between language prompts and images using self-attention modules, followed by refinement through adapters. To enhance the model's responsiveness to language guidance, we introduce a new cosine contrastive loss function and initialize language prompts with fixed features to ensure consistency in language embeddings. Furthermore, we develop an Integrated Query-Key Matching Mechanism that employs multiple strategies to enhance task matching accuracy. Extensive experiments on three continual learning datasets demonstrate that our approach achieves state-of-the-art (SOTA) performance across multiple metrics, highlighting its potential for advancing continual learning.
+- Continual learning enables models to adapt to evolving data streams without retraining from scratch. However, it faces the issue of catastrophic forgetting,,,,,,
 
 - Others
 
