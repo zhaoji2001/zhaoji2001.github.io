@@ -35,15 +35,15 @@ Feel free to explore my digital domain, where the pursuit of knowledge meets the
 
 # 📝 Publications 
 
-Adapter-Enhanced Semantic Prompting for Continual Learning [**Project**](https://arxiv.org/abs/2412.11074)
+**Adapter-Enhanced Semantic Prompting for Continual Learning** ([PDF](https://arxiv.org/abs/2412.11074),Code)
 
-Baocai Yin, Ji Zhao, Huajie Jiang, Ningning Hou, Yongli Hu, Amin Beheshti, Ming-Hsuan Yang, Yuankai Qi
+Authors: Baocai Yin, Ji Zhao, Huajie Jiang, Ningning Hou, Yongli Hu, Amin Beheshti, Ming-Hsuan Yang, Yuankai Qi
 
-#<img src="images\IMG_9436.jpg" alt="IMG_9436" style="width:90%;" />
+[image]
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong></strong>
 
-- Continual learning enables models to adapt to evolving data streams without retraining from scratch. However, it faces the issue of catastrophic forgetting,,,,,,
+- Continual learning enables models to adapt to evolving data streams without retraining from scratch. However, it faces the issue of catastrophic forgetting......
 
 - Others
 
@@ -51,7 +51,7 @@ Baocai Yin, Ji Zhao, Huajie Jiang, Ningning Hou, Yongli Hu, Amin Beheshti, Ming-
 
 # 📖 Educations
 
-- *2023.09 - 2024.10 (now)*, Beijing University of Technology, School of Information Science and Technology. Electronic Information. 
+- *2023.09 - now*, Beijing University of Technology, School of Information Science and Technology. Electronic Information. 
 - *2019.09 - 2023.06*, LiaoNing Petrochemical University, School of Information and Control Engineering, Control Engineering. 
 
 # 💻 Internships
