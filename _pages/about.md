@@ -35,7 +35,7 @@ Feel free to explore my digital domain, where the pursuit of knowledge meets the
 
 # 📝 Publications 
 
-**Adapter-Enhanced Semantic Prompting for Continual Learning** ([PDF](https://arxiv.org/abs/2412.11074),Code)
+Title: **Adapter-Enhanced Semantic Prompting for Continual Learning** ( [Paper](https://arxiv.org/abs/2412.11074), Code )
 
 Authors: Baocai Yin, Ji Zhao, Huajie Jiang, Ningning Hou, Yongli Hu, Amin Beheshti, Ming-Hsuan Yang, Yuankai Qi
 
