@@ -12,7 +12,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<img src="..\images\IMG_9481.JPG" alt="IMG_9481" style="width:100%; max-width:400px; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.1); transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 600px; margin: 20px auto;">
+  <img src="..\images\nine_images\IMG_0565_9BE52439.jpg" alt="Photo 1" style="width:100%; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.1); transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="..\images\nine_images\IMG_1305_18FD9179.jpg" alt="Photo 2" style="width:100%; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.1); transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="..\images\nine_images\IMG_0241_54D94021.jpg" alt="Photo 3" style="width:100%; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.1); transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="..\images\nine_images\IMG_0973_E0A5E177.jpg" alt="Photo 4" style="width:100%; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.1); transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="..\images\nine_images\IMG_9481.JPG" alt="Photo 5" style="width:100%; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.1); transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="..\images\nine_images\IMG_2390_EC12F0EC.jpg" alt="Photo 6" style="width:100%; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.1); transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="..\images\nine_images\IMG_1447_FDCB9A66.jpg" alt="Photo 7" style="width:100%; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.1); transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="..\images\nine_images\IMG_2372_788976C8.jpg" alt="Photo 8" style="width:100%; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.1); transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="..\images\nine_images\IMG_2267_053A5B6E.jpg" alt="Photo 9" style="width:100%; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.1); transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+</div>
 
 Welcome to My Digital Atelier! 🎓✨
 
